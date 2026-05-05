@@ -1,5 +1,5 @@
 # Fake News Detection Case Study
-A DS 4002 Case Study by Lauren Medica, Dev Patel, and Caroline Lingle
+A DS 4002 Case Study by Lauren Medica
 
 ## Hook and Rubric Documents
 The hook document outlining the case study is the file labeled CS Hook. The rubric outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continuously throughout your completion of the case study to guarantee success on the assignment.
