@@ -9,5 +9,3 @@ The necessary data can be obtained from Kaggle linked **[here](https://www.kaggl
 
 ## Reference Materials
 Bisaillon, C. (2020). Fake and Real News Dataset. Kaggle. **https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset**
-
-scikit-learn developers. (n.d.). Working with Text Data. scikit-learn Documentation. **https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html**
